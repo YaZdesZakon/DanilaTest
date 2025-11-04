@@ -18,6 +18,9 @@ public class MainClass {
         if(age > 18){
             System.out.println("Тебе можно пить бухлишко : "+ name);
         }
+        else  {
+            System.out.println("Тебе нельзя пить бухлишко : "+ name);
+        }
 
     }
 
